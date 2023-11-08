@@ -1,0 +1,454 @@
+@media (min-width: 0px) and (max-width: 575.98px) { 
+    /* ================================ banner part start ============================= */
+    #banner {
+        background: url(../image/background.png);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding-bottom: 47px;
+    }
+    .banner_logo {
+        width: 250px;
+        height: 151px;
+        margin: 0% auto;
+    }
+    .banner_logo img {
+        width: 250px;
+        height: 152px;
+    }
+    .banner_heading_row {
+        width: 100%;
+    }
+    .banner_head h2 {
+        width: 100%;
+        font-size: 12px;
+        margin-top: 30px;
+    }
+    .banner_head h4 {
+        width: 100%;
+        font-size: 12px;
+    }
+    .banner_head h3 {
+        width: 100%;
+        font-size: 12px;
+        margin-top: 15px;
+    }
+    .banner_head p {
+        font-size: 12px;
+    }
+    .banner_button a {
+        width: 112px;
+        height: 30px;
+        font-size: 12px;
+        margin-bottom: 20px;
+    }
+    .norfa h2 {
+        font-size: 12px;
+        margin-top: 0px;  
+    }
+    .norfa ul li p {
+        font-size: 12px;
+    }
+    .banner_stamp img {
+        width: 126px;
+        margin-left: 0;
+        margin-bottom: 111px;
+    }
+    /* -------------------------------- banner part end -------------------------------- */
+    /* ================================ Apie iniciatyvą ================================== */
+    .apie_head h2 {
+        font-size: 30px;
+        margin-top: 40px;
+        text-align: center;
+    }
+    .apie_text {
+        width: 100%;
+    }
+    .apie_text h2 {
+        font-size: 12px;
+
+    }
+    .apie_text h3 {
+        font-size: 12px;
+
+    }
+    .apie_text h4 {
+        font-size: 12px;
+
+        margin-top: 5px;
+    }
+    .apie_text p {
+        font-size: 14px;
+        margin-bottom: 0px;
+    }
+    .apie_image img {
+        width: 100%;
+        margin-right: 0px;
+        padding-top: 25px;
+        padding-bottom: 71px;
+        
+    }
+    /* --------------------------------- Apie iniciatyvą ----------------------------------------------- */
+    /* ================================= NORFA part start ================================================ */
+    #norafa {
+        padding-top: 45px;
+        padding-bottom: 25px;
+    }
+    .norafa_headding h2 {
+        font-size: 30px;
+    }
+    .from_input_box h5 {
+        font-size: 14px;
+    }
+    .from_input_box input {
+        width: 300px;
+        height: 40px;
+        margin-bottom: 20px;
+    }
+    .upload_box {
+        width: 100%;
+        height: 84px;
+    }
+    .from_upload_box_head h5 {
+        font-size: 14px;
+        margin-top: 7px;
+    }
+    .from_chack_box {
+        margin-top: 8px;
+    }
+    .from_button a {
+        width: 128px;
+        height: 35px;
+        font-size: 14px; 
+        margin-top: 19px;
+    }
+    .from_chack_box input {
+        width: 18px;
+        height: 18px;
+    }
+    .from_chack_box h3 {
+        font-size: 14px;
+    }
+    /* ---------------------------------- NORFA part end -------------------------------------------------*/
+    /* ================================= Dalyvių laiškai part start ====================================== */
+    .Dalyvių_laiškai_head h2 {
+        font-size: 30px;
+        margin-top: 25px;
+    }
+    .Dalyvių_laiškai_image img {
+        width: 100%;
+        margin-top: 11px;
+        margin-bottom: 9.92px;
+        padding: 2px;
+    }
+    .Dalyvių_laiškai_image h2 {
+        font-size: 14px;
+        margin-bottom: 0px;
+    }
+ }
+
+
+
+ @media (min-width: 576px) and (max-width: 766.98px) { 
+
+    /* ================================ banner part start ============================= */
+    #banner {
+        background: url(../image/background.png);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding-bottom: 47px;
+    }
+    .banner_logo {
+        width: 310px;
+        height: 200px;
+        margin: 0% auto;
+    }
+    .banner_logo img {
+        width: 310px;
+        height: 200px;
+    }
+    .banner_heading_row {
+        width: 100%;
+    }
+    .banner_head h2 {
+        width: 100%;
+        font-size: 14px;
+        margin-top: 30px;
+    }
+    .banner_head h4 {
+        width: 100%;
+        font-size: 14px;
+    }
+    .banner_head h3 {
+        width: 100%;
+        font-size: 14px;
+        margin-top: 15px;
+    }
+    .banner_head p {
+        font-size: 14px;
+    }
+    .banner_button a {
+        width: 160px;
+        height: 45px;
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+    .norfa h2 {
+        font-size: 14px;
+        margin-top: 0px;  
+    }
+    .norfa ul li p {
+        font-size: 14px;
+        margin-top: 20px;
+    }
+    .banner_stamp img {
+        width: 126px;
+        margin-left: 0;
+        margin-bottom: 0px;
+        margin-top: 334px;
+    }
+    /* -------------------------------- banner part end -------------------------------- */
+    /* ================================ Apie iniciatyvą ================================== */
+    .apie_head h2 {
+        font-size: 35px;
+        margin-top: 40px;
+        text-align: center;
+    }
+    .apie_text {
+        width: 100%;
+    }
+    .apie_text h2 {
+        font-size: 14px;
+
+    }
+    .apie_text h3 {
+        font-size: 14px;
+
+    }
+    .apie_text h4 {
+        font-size: 14px;
+        margin-top: 5px;
+    }
+    .apie_text p {
+        font-size: 16px;
+        margin-bottom: 0px;
+    }
+    .apie_image img {
+        width: 100%;
+        margin-right: 0px;
+        padding-top: 25px;
+        padding-bottom: 71px;
+        
+    }
+    /* --------------------------------- Apie iniciatyvą ----------------------------------------------- */
+    /* ================================= NORFA part start ================================================ */
+    #norafa {
+        padding-top: 45px;
+        padding-bottom: 25px;
+    }
+    .norafa_headding h2 {
+        font-size: 30px;
+    }
+    .from_input_box h5 {
+        font-size: 16px;
+    }
+    .from_input_box input {
+        width: 534px;
+        height: 40px;
+        margin-bottom: 20px;
+    }
+    .upload_box {
+        width: 542px;
+        height: 154px;
+    }
+    .from_upload_box_head h5 {
+        font-size: 16px;
+        margin-top: 7px;
+    }
+    .from_chack_box {
+        margin-top: 8px;
+    }
+    .from_button a {
+        width: 185px;
+        height: 45px;
+        font-size: 16px;
+        margin-top: 19px;
+    }
+    .from_chack_box input {
+        width: 18px;
+        height: 18px;
+    }
+    .from_chack_box h3 {
+        font-size: 14px;
+    }
+    /* ---------------------------------- NORFA part end -------------------------------------------------*/
+    /* ================================= Dalyvių laiškai part start ====================================== */
+    .Dalyvių_laiškai_head h2 {
+        font-size: 30px;
+        margin-top: 25px;
+    }
+    .Dalyvių_laiškai_image img {
+        width: 100%;
+        margin-top: 11px;
+        margin-bottom: 9.92px;
+        padding: 2px;
+    }
+    .Dalyvių_laiškai_image h2 {
+        font-size: 18px;
+        margin-bottom: 21px;
+    }
+ }
+
+ @media (min-width: 767px) and (max-width: 991.98px) { 
+
+    /* ================================ banner part start ============================= */
+    #banner {
+        background: url(../image/background.png);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding-bottom: 47px;
+    }
+    .banner_logo {
+        width: 430px;
+        height: 255px;
+        margin: 0% auto;
+    }
+    .banner_logo img {
+        width: 430px;
+        height: 255px;
+        margin-top: 40px;
+    }
+    .banner_heading_row {
+        width: 100%;
+    }
+    .banner_head h2 {
+        width: 100%;
+        font-size: 16px;
+        margin-top: 50px;
+    }
+    .banner_head h4 {
+        width: 100%;
+        font-size: 16px;
+        margin-top: 30px;
+    }
+    .banner_head h3 {
+        width: 100%;
+        font-size: 16px;
+        margin-top: 25px;
+    }
+    .banner_head p {
+        font-size: 16px;
+    }
+    .banner_button a {
+        width: 175px;
+        height: 55px;
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+    .norfa h2 {
+        font-size: 16px;
+        margin-top: 0px;  
+    }
+    .norfa ul li p {
+        font-size: 16px;
+        margin-top: 20px;
+    }
+    .banner_stamp img {
+        width: 126px;
+        margin-left: 0;
+        margin-bottom: 358px;
+        margin-top: 456px;
+    }
+    /* -------------------------------- banner part end -------------------------------- */
+    /* ================================ Apie iniciatyvą ================================== */
+    .apie_head h2 {
+        font-size: 40px;
+        margin-top: 40px;
+        text-align: center;
+    }
+    .apie_text {
+        width: 100%;
+    }
+    .apie_text h2 {
+        font-size: 16px;
+
+    }
+    .apie_text h3 {
+        font-size: 16px;
+
+    }
+    .apie_text h4 {
+        font-size: 16px;
+        margin-top: 5px;
+    }
+    .apie_text p {
+        font-size: 16px;
+        margin-bottom: 0px;
+    }
+    .apie_image img {
+        width: 100%;
+        margin-right: 0px;
+        padding-top: 25px;
+        padding-bottom: 71px;
+        
+    }
+    /* --------------------------------- Apie iniciatyvą ----------------------------------------------- */
+    /* ================================= NORFA part start ================================================ */
+    #norafa {
+        padding-top: 45px;
+        padding-bottom: 25px;
+    }
+    .norafa_headding h2 {
+        font-size: 30px;
+    }
+    .from_input_box h5 {
+        font-size: 16px;
+    }
+    .from_input_box input {
+        width: 534px;
+        height: 40px;
+        margin-bottom: 20px;
+    }
+    .upload_box {
+        width: 542px;
+        height: 154px;
+    }
+    .from_upload_box_head h5 {
+        font-size: 16px;
+        margin-top: 7px;
+    }
+    .from_chack_box {
+        margin-top: 8px;
+    }
+    .from_button a {
+        width: 185px;
+        height: 45px;
+        font-size: 16px;
+        margin-top: 19px;
+    }
+    .from_chack_box input {
+        width: 18px;
+        height: 18px;
+    }
+    .from_chack_box h3 {
+        font-size: 14px;
+    }
+    /* ---------------------------------- NORFA part end -------------------------------------------------*/
+    /* ================================= Dalyvių laiškai part start ====================================== */
+    .Dalyvių_laiškai_head h2 {
+        font-size: 30px;
+        margin-top: 25px;
+    }
+    .Dalyvių_laiškai_image img {
+        width: 100%;
+        margin-top: 11px;
+        margin-bottom: 9.92px;
+        padding: 2px;
+    }
+    .Dalyvių_laiškai_image h2 {
+        font-size: 18px;
+        margin-bottom: 21px;
+    }
+ }

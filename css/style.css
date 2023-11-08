@@ -1,0 +1,369 @@
+/* ===========================font link start======================== */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@200;300;400;500;600;700;800;900&display=swap');
+
+/* ----------------------------font link end------------------------- */
+
+/* =========================common css start========================= */
+*{
+    padding: 0;
+    margin: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+ul,ol{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+}
+h1,h2,h3,h4,h5,h6,p,ul,ol{
+    margin: 0;
+    padding: 0;
+}
+/* -----------------------common css end------------------------- */
+/* ======================variable part start======================= */
+:root{
+    --brand_color:#56AB4A;
+    --poppins:'Poppins', sans-serif;
+    --source_sans:'Source Sans 3', sans-serif;
+}
+/* ----------------------variable part end------------------------- */
+/* ======================banner part start======================= */
+#banner{
+    background: url(../image/banner.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 77.5px;
+}
+.banner_heading_row{
+    width: 613px;
+    margin: 0% auto;
+    padding-top: 65.5px;
+    text-align: center;
+}
+.banner_logo{
+    width: 491px;
+    height: 298px;
+    margin: 0% auto;
+    
+}
+.banner_logo img{
+    width: 491px;
+    height: 298px;
+}
+.banner_head h2{
+    width: 560px;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: var(--poppins);
+    color: #ffffff;
+    line-height: 24px;
+    text-align: center;
+    margin: 0% auto;
+    margin-top: 45.95px;
+}
+
+.banner_head h3{
+    width: 542px;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: var(--poppins);
+    color: #ffffff;
+    text-align: center;
+    margin: 0% auto;
+    margin-top: 32px;
+  margin-bottom: 5px;
+}
+.banner_head h3 span{
+    color: var(--brand_color);
+}
+.banner_head p{
+    font-size: 14px;
+    font-weight: 500;
+    font-family: var(--poppins);
+    color: #ffffff;
+    text-align: center;
+    margin-bottom: 5px;
+}
+.banner_head p span{
+    font-size: 18px;
+    font-weight: 700;
+}
+.banner_head h4{
+    width: 387px;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: var(--poppins);
+    color: #ffffff;
+    margin: 0% auto;
+    text-align: center;
+    line-height: 27px;
+
+}
+.banner_head h4 span{
+    color: var(--brand_color);
+}
+.norfa h2{
+    font-size: 16px;
+    font-weight: 700;
+    font-family: var(--poppins);
+    color: #ffffff;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 5px;
+}
+.norfa h2 span{
+    color: var(--brand_color);
+}
+.norfa ul li p span img{
+    width: 15px;
+    height: 15px;
+    margin-right: 5px;
+}
+.norfa ul li p{
+    font-size: 16px;
+    font-weight: 400;
+    font-family: var(--poppins);
+    color: #ffffff;
+    text-align: center;
+}
+
+.banner_button a{
+    width: 152px;
+    height: 45px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: var(--source_sans);
+    color: #fff;
+    background: var(--brand_color);
+    margin-top: 30px !important;
+    margin: 0% auto;
+}
+.banner_stamp img{
+    width: 203px;
+    padding-top: 75.52px;
+    margin-left: 530px;
+}
+
+/* ----------------------banner part end------------------------- */
+/* ===================Apie part start===================== */
+#apie_iniciatyvą{
+    background: url(../image/image\ 1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.apie_head h2{
+    font-size: 46px;
+    font-weight: 700;
+    font-family: var(--poppins);
+    color: #222831;
+    margin-top: 128px;
+}
+.apie_text{
+    width: 539.42px;
+}
+.apie_text h2{
+    font-size: 16px;
+    font-weight: 500;
+    font-family: var(--poppins);
+    color: #000;
+    margin-top: 18px;
+    margin-bottom: 24px;
+}
+.apie_text h2 span{
+    color: var(--brand_color);
+}
+.apie_text h3{
+    font-size: 16px;
+    font-weight: 700;
+    font-family: var(--poppins);
+    color: #000;
+    margin-bottom: 28px;
+}
+.apie_text h4{
+    font-size: 16px;
+    font-weight: 700;
+    font-family: var(--poppins);
+    color: #000;
+    margin-bottom: 28px;
+}
+.apie_text h4 span{
+    color: var(--brand_color);
+}
+.apie_text p{
+    font-size: 16px;
+    font-weight: 700;
+    font-family: var(--poppins);
+    color: #000;
+    margin-bottom: 133px;
+}
+.apie_text p span{
+    color: var(--brand_color);
+}
+.apie_image img{
+    width: 691.48px;
+    margin-right: 26px;
+    padding-top: 87px;
+    padding-bottom: 71px;
+    border-radius: 30px;
+}
+/* ----------------------Apie part end--------------------- */
+/* ================================== Pildyk NORFA part start ===================== */
+#norafa{
+    background: url('../image/bg.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 87px;
+    padding-bottom: 88px;
+}
+.norafa_headding h2{
+    font-size: 46px;
+    font-weight: 600;
+    font-family: var(--poppins);
+    color: #FFFF;
+    text-align: center;
+}
+.norafa_from_row{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 27px;
+    justify-content: center;
+    margin-top: 51px;
+}
+.from_input_box h5{
+    font-size: 16px;
+    font-weight: 500;
+    font-family: var(--poppins);
+    color: #FFFF;
+    margin-bottom: 7px;
+}
+.from_input_box input{
+    width: 484px;
+    height: 52px;
+    background: #ffff;
+    border: none;
+    border-radius: 8px;
+    padding: 0 10px 0 10px;
+    margin-bottom: 30px;
+}
+.from_input_box input[text]{
+    font-size: 18px;
+    font-weight: 500;
+    font-family: var(--poppins);
+    color: #000;
+}
+.from_upload_box_head h5{
+    font-size: 16px;
+    font-weight: 500;
+    font-family: var(--poppins);
+    color: #FFFF;
+    margin-bottom: 6px;
+    margin-top: 34px;
+}
+.upload_box{
+    width: 484px;
+    height: 136px;
+    background:url('../image/upload_box.png');
+    background-position: center;
+    background-size: contain;
+    border-radius: 8px;
+    text-align: center;
+    padding: 13px;
+    cursor: pointer;
+}
+.upload_box a{
+    font-size: 14px;
+    font-weight: 400;
+    font-family: var(--poppins);
+    color: #FFFF;
+}
+.upload_box .upload_icon i{
+    font-size: 18px;
+    margin-right: 4px;
+}
+.from_chack_box{
+    display: flex;
+    gap:8px;
+    margin-top: 92px;
+}
+.from_chack_box input{
+    width: 24px;
+    height: 24px;
+    background: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.from_chack_box h3{
+    font-size: 16px;
+    font-weight: 400;
+    font-family: var(--poppins);
+    color: #FFFF;
+}
+.from_chack_box span{
+    text-decoration: underline;
+}
+ .from_button a{
+    width: 248px;
+    height: 52px;
+    background: var(--brand_color);
+    border: 1px solid #56AB4A;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: var(--poppins);
+    color: #FFFF;
+    margin-top: 34px;
+    transition: all linear .3s;
+ }
+ .from_button a:hover{
+    background: transparent;
+    color: var(--brand_color);
+ }
+
+/* ----------------------------------Pildyk NORFA part end ------------------------- */
+/* ===================Dalyvių laiškai PART Start================ */
+#Dalyvių_laiškai{
+    background: url(../image/image\ 1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Dalyvių_laiškai_head h2{
+    font-size: 46px;
+    font-weight: 700;
+    font-family: var(--poppins);
+    color: #222831;
+    text-align: center;
+    margin-top: 51px;
+}
+.Dalyvių_laiškai_image img{
+    width: 282.63px;
+    border: 1px solid #56AB4A;
+    border-radius: 12px;
+    margin-top: 57px;
+    margin-bottom: 9.92px;
+    padding: 2px;
+}
+.Dalyvių_laiškai_image h2{
+    font-size: 16px;
+    font-weight: 600;
+    font-family: var(--poppins);
+    color: #000;
+    width: 288.6px;
+    text-align: center;
+    margin-bottom: 46px;
+}
+/* -------------------- Dalyvių laiškai PART end --------------------*/
